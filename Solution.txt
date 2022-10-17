@@ -1,3 +1,1 @@
-added something
-
 myFile to check commit -a command
