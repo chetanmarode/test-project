@@ -1,0 +1,1 @@
+myFile to check commit -a command
